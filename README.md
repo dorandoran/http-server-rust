@@ -13,6 +13,3 @@ A simple HTTP Server for serving text files, written in Rust.
 ## Future Considerations
 - Serve images
 - Multiple threads/concurrency
-
- ## Acknowledgements
-- Sample served web page from [Start Bootstrap](https://startbootstrap.com/theme/grayscale)
